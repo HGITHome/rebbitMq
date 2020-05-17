@@ -13,7 +13,7 @@ import java.io.IOException;
  * @author heyutang
  * 
  */
-public class C {
+public class MyConsumer {
 
 	private final static String QUEUE_NAME = "hello";
 
