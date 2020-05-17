@@ -8,6 +8,9 @@ import com.rabbitmq.client.*;
 
 import java.io.IOException;
 
+/**
+ * heyutang
+ */
 public class Worker1 {
 	private static final String TASK_QUEUE_NAME = "task_queue";
 

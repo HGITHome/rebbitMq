@@ -5,7 +5,7 @@
 package com.aitongyi.rabbitmq.rpc;
 
 /**
- * @author hushuang
+ * @author heyutang
  *
  */
 import com.rabbitmq.client.ConnectionFactory;

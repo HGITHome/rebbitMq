@@ -5,7 +5,7 @@
 package com.aitongyi.rabbitmq.publish;
 
 /**
- * @author hushuang
+ * @author heyutang
  *
  */
 

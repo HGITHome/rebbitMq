@@ -5,7 +5,7 @@
 package com.aitongyi.rabbitmq.routing;
 
 /**
- * @author hushuang
+ * @author heyutang
  *
  */
 import com.rabbitmq.client.*;

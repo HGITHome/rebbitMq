@@ -8,9 +8,9 @@ import com.rabbitmq.client.*;
 import java.io.IOException;
 
 /**
- * ÏûÏ¢Ïû·ÑÕß
+ * æ¶ˆè´¹è€…
  * 
- * @author hushuang
+ * @author heyutang
  * 
  */
 public class C {

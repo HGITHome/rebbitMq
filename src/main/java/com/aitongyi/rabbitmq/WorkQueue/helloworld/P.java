@@ -10,7 +10,7 @@ import com.rabbitmq.client.ConnectionFactory;
 
 /**
  * 消息生产者
- * @author hushuang
+ * @author heyutang
  *
  */
 public class P {

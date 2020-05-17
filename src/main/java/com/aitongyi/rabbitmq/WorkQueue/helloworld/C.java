@@ -11,7 +11,7 @@ import java.io.IOException;
 /**
  * 消息消费者
  * 
- * @author hushuang
+ * @author heyutang
  * 
  */
 public class C {

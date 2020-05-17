@@ -9,7 +9,7 @@ import com.rabbitmq.client.Connection;
 import com.rabbitmq.client.Channel;
 
 /**
- * @author hushuang
+ * @author heyutang
  *
  */
 public class RoutingSendDirect {

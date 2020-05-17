@@ -10,7 +10,7 @@ import com.rabbitmq.client.ConnectionFactory;
 import com.rabbitmq.client.MessageProperties;
 
 /**
- * @author hushuang
+ * @author heyutang
  * 
  */
 public class NewTask {
